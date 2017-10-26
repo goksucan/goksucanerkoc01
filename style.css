@@ -1,0 +1,21 @@
+.cell {
+  width:70px;    
+  height:70px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  font-size: 36pt;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cell:hover {
+  background: #C2DBFC;
+}
+
+    body {
+    background-image: url("elmore.jpg");
+}
+h1 {
+    color:white;
+}
